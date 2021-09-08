@@ -1,0 +1,14 @@
+{
+  "name": "screentoios",
+  "version": "1.0.0",
+  "description": "自动截图并上传到ios模拟器",
+  "main": "index.js",
+  "bin": {
+    "screenToIos": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
